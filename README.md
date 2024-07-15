@@ -1,4 +1,4 @@
-#️⃣Link:https://startling-dusk-1c9ea9.netlify.app/
+Click [here](https://startling-dusk-1c9ea9.netlify.app/) to see demo
 
 
 # Frontend Mentor - QR code component
